@@ -5,3 +5,8 @@ This project is a Basic Restful CRUD API with [Node.js](https://nodejs.org/), [E
 ### API Features
 
 The application can create, read, update and delete data, for example: products, in a database.
+
+### Tools
+
+- [Render](https://render.Tools)
+- [Diagrams.net](https://app.diagrams.net/)
